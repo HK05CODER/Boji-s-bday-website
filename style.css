@@ -1,0 +1,87 @@
+#MH1{
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: FFC693;
+}
+
+#image{
+     display:block;
+     margin-left: auto;
+     margin-right: auto;
+    }
+
+.hds{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: 150C61;
+}
+
+#MH2{
+    font-size:40px;
+    text-align: center;
+    color: 150C61;
+}
+
+#partition{
+    font-size: 25px;
+    text-align: center;
+}
+
+#uMH2{
+    color: 150C61;
+}
+
+#mebooji{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ps{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: 150C61;
+    font-size: 30px;
+}
+
+#mainline{
+    text-align: center;
+    color: 40907C;
+    
+}
+
+#p2{
+    text-align: center;
+    color: 40907C;
+    
+}
+
+#gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#last{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+
+#par2{
+    text-align: center;
+}
+
+#lastu{
+    color: red;
+}
+
+#p1{
+    background-color: 40907C;
+}
+
+#p3{
+    background-color: 40907C;
+}
